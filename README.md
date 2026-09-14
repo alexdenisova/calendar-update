@@ -5,6 +5,7 @@ Utility to sign up for classes as well as add them to Google Calendar.
 ## Commands
 
 `google-calendar-utility sign-up` - sign up to classes listed in config.
+
 `google-calendar-utility sync` - sync those classes with Google Calendar Events.
 
 ## Sign Up Config
