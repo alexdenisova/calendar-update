@@ -1,6 +1,6 @@
 # google-calendar-utility
 
-Utility to sign up for classes as well as add them to Google Calendar.
+Tool to sign up for classes as well as add them to Google Calendar.
 
 ## Commands
 
